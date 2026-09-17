@@ -1,0 +1,10 @@
+# Generated database (regenerate by running data/setup_database.py)
+data/banking_analytics.db
+
+# Python
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
